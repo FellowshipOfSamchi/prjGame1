@@ -2,7 +2,9 @@
 prjGame1
 
 ##환경
- - Server => Scala
+ - Server Langage => Scala
  - Client Langage => ?
- - Client Platform = ? 
+ - Client Platform => ? 
 
+##타겟게임
+ - 
