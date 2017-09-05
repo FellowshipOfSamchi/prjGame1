@@ -1,6 +1,8 @@
 # prjGame1
 prjGame1
 
-Server => Scala
-Client => ..
+##환경
+ - Server => Scala
+ - Client Langage => ?
+ - Client Platform = ? 
 
