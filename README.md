@@ -1,8 +1,8 @@
-# Ssa Pi 쌓고 피하기 (싸(?)고 피하기)
+# Ssa Pi 쌓고 피하기 
 prjGame1
 
 ## 환경
- - Server Langage => Scala
+ - Server Langage => ?
  - Client Langage => ?
  - Client Platform => ? 
 
